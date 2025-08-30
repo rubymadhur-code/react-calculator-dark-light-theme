@@ -1,7 +1,7 @@
 # React Calculator with Dark & Light Theme
 
 A responsive **React Calculator** app with **Dark/Light theme toggle**.  
-Built with React, CSS, and Hooks.  
+Built with React, CSS, and Hooks.  ** ( In Progress )**
 
 ## 🚀 Features
 - Basic calculator operations (+, -, ×, ÷)
