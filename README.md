@@ -18,7 +18,7 @@ Built with React, CSS, and Hooks.  ** ( In Progress )**
 
 ## 🧑‍💻 Installation
 ```bash
-git clone https://github.com/yourusername/react-calculator-dark-light-theme.git
+git clone https://github.com/rubymadhur-code/react-calculator-dark-light-theme.git
 cd react-calculator-dark-light-theme
 npm install
 npm start
